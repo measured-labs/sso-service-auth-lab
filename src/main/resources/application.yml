@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: sso-service-auth-lab
+
+server:
+  port: 8217
